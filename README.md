@@ -34,9 +34,9 @@ After removing Thomas High School
 -  The % change for Thomas High School overall was very small for reading, math and overall percentages
 
 -  Replacing the ninth-grade scores affect the following:
--    The grade 9 math and reading grades are now 0.  Thomas High School went from the top 5 reading and 3rd in math to 0.
--    The numbers for school spending for Thomas High School are still incorrect.  The #'s fo students should have been updated in per_school_summary_df.  The number of Students is still 1635 when it should be 1174.
--    Thomas High School was a in the medium (1000-2000 student) sized groud. The scores and percentages went up a small amount when the analysis was rerun for the Scores by School size.
+    - The grade 9 math and reading grades are now 0.  Thomas High School went from the top 5 reading and 3rd in math to 0.
+    - The numbers for school spending for Thomas High School are still incorrect.  The #'s fo students should have been updated in per_school_summary_df.  The number of Students is still 1635 when it should be 1174.
+    - Thomas High School was a in the medium (1000-2000 student) sized groud. The scores and percentages went up a small amount when the analysis was rerun for the Scores by School size.
 	
        Below are the scores before: 
 	<img src="https://github.com/andralobo/Module4-Challenge/blob/main/Score_Summary_before.png?raw=true">
@@ -44,7 +44,7 @@ After removing Thomas High School
        Below are the Scores after removing Thomas High School:	
 	<img src="https://github.com/andralobo/Module4-Challenge/blob/main/Score_Summary_after.png?raw=true">
 	
--    Thomas High School is a Charter School and after reveiwing the before and after reports for scores by school types, the numbers are exactly the same
+    - Thomas High School is a Charter School and after reveiwing the before and after reports for scores by school types, the numbers are exactly the same
 
 
 
