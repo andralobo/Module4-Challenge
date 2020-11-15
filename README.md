@@ -41,7 +41,7 @@ After removing Thomas High School
        Below are the scores before: 
 	<img src="https://github.com/andralobo/Module4-Challenge/blob/main/Score_Summary_before.png?raw=true">
 	
-       Below are the Scores after removing Thomas High School:	
+	Below are the Scores after removing Thomas High School:	
 	<img src="https://github.com/andralobo/Module4-Challenge/blob/main/Score_Summary_after.png?raw=true">
 	
     - Thomas High School is a Charter School and after reveiwing the before and after reports for scores by school types, the numbers are exactly the same
