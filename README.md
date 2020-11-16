@@ -39,7 +39,7 @@ After removing Thomas High School
     - Thomas High School was a in the medium (1000-2000 student) sized groud. The scores and percentages went up a small amount when the analysis was rerun for the Scores by School size.
 	
        Below are the scores before: 
-	<img src="https://github.com/andralobo/Module4-Challenge/blob/main/Score_Summary_before.png?raw=true">
+	<img src="https://github.com/andralobo/Module4-Challenge/blob/main/Resources/Score_Summary_before.png?raw=true">
 	
 	Below are the Scores after removing Thomas High School:	
 	<img src="https://github.com/andralobo/Module4-Challenge/blob/main/Score_Summary_after.png?raw=true">
