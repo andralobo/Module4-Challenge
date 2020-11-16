@@ -14,7 +14,7 @@ How is the district summary affected?
 The district summery overall only showed a very small change.
 
 Original Analysis
-<img src="https://github.com/andralobo/Module4-Challenge/blob/main/District_Summary_before.png?raw=true">
+<img src="https://github.com/andralobo/Module4-Challenge/blob/main/Resources/District_Summary_before.png?raw=true">
 
 After removing Thomas High School
 <img src="https://github.com/andralobo/Module4-Challenge/blob/main/District_Summary_after.png?raw=true">
