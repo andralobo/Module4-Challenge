@@ -25,10 +25,10 @@ After removing Thomas High School
 -  In the School Summary this update only affected Thomas High School's summary.  There was no impact on the other school 
 
 Original Analysis -  You can see Thomas High School is highlighted in Yellow
-<img src="https://github.com/andralobo/Module4-Challenge/blob/main/School_Summary_before.png?raw=true">
+<img src="https://github.com/andralobo/Module4-Challenge/blob/main/Resources/School_Summary_before.png?raw=true">
 
 After removing Thomas High School
-<img src="https://github.com/andralobo/Module4-Challenge/blob/main/School_Summary_after.png?raw=true">
+<img src="https://github.com/andralobo/Module4-Challenge/blob/main/Resources/School_Summary_after.png?raw=true">
 
 
 -  The % change for Thomas High School overall was very small for reading, math and overall percentages
@@ -42,7 +42,7 @@ After removing Thomas High School
 	<img src="https://github.com/andralobo/Module4-Challenge/blob/main/Resources/Score_Summary_before.png?raw=true">
 	
 	Below are the Scores after removing Thomas High School:	
-	<img src="https://github.com/andralobo/Module4-Challenge/blob/main/Score_Summary_after.png?raw=true">
+	<img src="https://github.com/andralobo/Module4-Challenge/blob/main/Resources/Score_Summary_after.png?raw=true">
 	
     - Thomas High School is a Charter School and after reveiwing the before and after reports for scores by school types, the numbers are exactly the same
 
